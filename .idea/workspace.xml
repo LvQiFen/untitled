@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3f4baff-5fe5-4085-a15a-df62ba228271" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\IdeaProjects\untitled\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bkz0qWJURaIW1gSWzYQt8DIglh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3f4baff-5fe5-4085-a15a-df62ba228271" name="Default Changelist" comment="" />
+      <created>1589190658476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589190658476</updated>
+      <workItem from="1589190659807" duration="2921000" />
+    </task>
+    <task id="LOCAL-00001" summary="程序员B第一次提交">
+      <created>1589190962083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589190962083</updated>
+    </task>
+    <task id="LOCAL-00002" summary="程序员B第一次提交">
+      <created>1589191072619</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589191072619</updated>
+    </task>
+    <task id="LOCAL-00003" summary="程序员B第一次提交">
+      <created>1589191509721</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589191509721</updated>
+    </task>
+    <task id="LOCAL-00004" summary="程序员B第一次提交">
+      <created>1589192405767</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589192405767</updated>
+    </task>
+    <task id="LOCAL-00005" summary="程序员B第一次提交">
+      <created>1589192786451</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589192786451</updated>
+    </task>
+    <task id="LOCAL-00006" summary="程序员B第一次提交">
+      <created>1589192979117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589192979117</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="程序员B第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="程序员B第一次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="660" y="140" key="CommitChangelistDialog2" timestamp="1589192978597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="140" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589192978597" />
+    <state x="769" y="263" key="MultipleFileMergeDialog" timestamp="1589192803796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="263" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589192803796" />
+    <state x="652" y="280" key="Vcs.Push.Dialog.v2" timestamp="1589192980457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589192980457" />
+    <state x="853" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589193711627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="853" y="464" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589193711627" />
+  </component>
+</project>
